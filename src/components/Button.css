@@ -1,0 +1,25 @@
+.btn-container {
+  width: 400px;
+  background-color: yellow;
+}
+.btn-group {
+  display: flex;
+}
+.btn {
+  width: 100px;
+  height: 40px;
+  border: none;
+  transition: 0.5s;
+}
+.btn-long {
+  width: 300px;
+  background-color: orange;
+}
+.btn-codelab {
+  background-color: black;
+  color: white;
+}
+.btn:hover {
+  background-color: #646262;
+  color: white;
+}
